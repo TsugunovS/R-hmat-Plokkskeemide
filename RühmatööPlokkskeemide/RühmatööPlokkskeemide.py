@@ -27,7 +27,6 @@ print()
 
 
 
-
 try:
     päev=int(input("Mis päev ja mitu tundi täna on ?"))
     if päev==1:
